@@ -1,3 +1,9 @@
+/*
+ * time complexity
+ * 
+ * time complexity: O(NlogN)
+ * 
+ */
 #include <stdio.h>
 /* when index count from 0
  * left child index = 2*index+1,

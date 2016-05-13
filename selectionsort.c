@@ -1,3 +1,9 @@
+/*
+ * time complexity
+ * 
+ * time complexity:    O(N^2)
+ * 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 

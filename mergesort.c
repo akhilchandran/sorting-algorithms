@@ -1,3 +1,10 @@
+/*
+ * time complexity
+ * 
+ * average case time complexity: O(NlogN)
+ * best case time complexity:    O(N)
+ * 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 
